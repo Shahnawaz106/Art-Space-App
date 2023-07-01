@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name ="painting_select">Still Life of Blue Rose and Other Flowers</string>
+    <string name ="painting_select1">Owen Scott(2021)</string>
+    <string name ="painting_title">Cold Winter of California</string>
+    <string name ="painting_name">Omar Saad(2021)</string>
+    <string name = "painting_title1">Saturday Morning</string>
+    <string name = "painting_name1">Meghan Markle(2022)</string>
+    <string name = "painting_title2">Paris in the Rain</string>
+    <string name = "painting_name2">Kat Kuan(2023)</string>
+</resources>
